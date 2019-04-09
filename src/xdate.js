@@ -12,7 +12,7 @@
  *
  */
 
-var XDate = (function(Date, Math, Array, undefined) {
+(function(Date, Math, Array, undefined) {
 
 
 /** @const */ var FULLYEAR     = 0;
